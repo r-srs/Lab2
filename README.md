@@ -84,15 +84,15 @@ You'll notice that your repository already has two branches called `alice` and `
     - If you do the merge through the Terminal, you will need to edit `recipe.md` to remove all of the
     merge conflict symbols which `git` has added to your file. Once done, you will need to `git add` the
     `recipe.md` file and `git commit` to finish the merge.
-- [ ] Once the merge is complete, delete the `bob` branch.
+- [x] Once the merge is complete, delete the `bob` branch.
 
-- [ ] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
+- [x] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
 
 Now, you are almost ready to share your recipe with the remote! 
 
 # TASK 3
 
-- [ ] Checkout a new branch called `task_3`.
+- [x] Checkout a new branch called `task_3`.
 - [ ] Commit any changes that you want to `recipe.md` to improve the recipe.
 - [ ] While still on the `task_3` branch, push your code to your remote repository on GitHub.
 - [ ] Go to GitHub and you will see an option to make a pull request to the original repo. Make
